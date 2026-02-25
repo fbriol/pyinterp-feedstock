@@ -4,7 +4,7 @@ context:
   name: pyinterp
   version: 2026.2.0
   build_number: 0
-  sha256: 0cf503c850df6f10875427ae68bd9e8c9440e8b7441c8ab9f2d9ad9556325c38
+  sha256: 5f866bd9c6789d86e091ee485a93766320a92b737b396634a8eb8a32676e1bc5
 
 package:
   name: ${{ name|lower }}
@@ -21,7 +21,7 @@ build:
   string: ${{ blas }}_py${{ python | version_to_buildstring }}h${{ hash }}_${{ build_number }}
   variant:
     down_prioritize_variant: ${{ 1 if blas == "mkl" else 0 }}
-  script: '${{ PYTHON }} -m pip install . -vv --no-build-isolation -Ccmake-args="-DBoost_INCLUDE_DIRS=$CONDA_PREFIX/Library/include" -Cmkl=${{ "yes" if blas == "mkl" else "no" }}'
+  script: '${{ PYTHON }} -m pip install . -vv --no-build-isolation -Ccmake-args=${{ "-DBoost_INCLUDE_DIRS=$CONDA_PREFIX/Library/include" if win else "-DBoost_INCLUDE_DIRS=$CONDA_PREFIX/include" }} ${{ "-Cgenerator=\"Visual Studio 17 2022\"" if win else "" }}'
 
 requirements:
   build:
