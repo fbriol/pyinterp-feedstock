@@ -5,7 +5,7 @@ blas:
 cxx_compiler:
   - clangxx     # [linux64 or osx]
 cxx_compiler_version:
-  - 19          # [linux64 or osx]
+  - 21          # [linux64 or osx]
 mkl:
   - '2025'
 mkl_devel:
