@@ -21,7 +21,7 @@ build:
   string: ${{ blas }}_py${{ python | version_to_buildstring }}h${{ hash }}_${{ build_number }}
   variant:
     down_prioritize_variant: ${{ 1 if blas == "mkl" else 0 }}
-  script: '${{ PYTHON }} -m pip install . -vv --no-build-isolation -Ccmake-args=${{ "-DBoost_INCLUDE_DIRS=$PREFIX/Library/include" if win else "-DBoost_INCLUDE_DIRS=$PREFIX/include" }} ${{ "-Cgenerator=\"Visual Studio 17 2022\"" if win else "" }}'
+  script: '${{ PYTHON }} -m pip install . -vv --no-build-isolation ${{ "-Cgenerator=\"Visual Studio 17 2022\"" if win else "" }}'
 
 requirements:
   build:
