@@ -2,9 +2,9 @@ schema_version: 1
 
 context:
   name: pyinterp
-  version: 2025.11.0
-  build_number: 2
-  sha256: ead3eeb41dc9378918a3b42afb2b9bf64b48593f369c9b3afbbd14f369c88a58
+  version: 2026.2.0
+  build_number: 0
+  sha256: 0cf503c850df6f10875427ae68bd9e8c9440e8b7441c8ab9f2d9ad9556325c38
 
 package:
   name: ${{ name|lower }}
@@ -21,7 +21,7 @@ build:
   string: ${{ blas }}_py${{ python | version_to_buildstring }}h${{ hash }}_${{ build_number }}
   variant:
     down_prioritize_variant: ${{ 1 if blas == "mkl" else 0 }}
-  script: '${{ PYTHON }} -m pip install . -vv --no-build-isolation -Cmkl=${{ "yes" if blas == "mkl" else "no" }} ${{ "-Cgenerator=\"Visual Studio 17 2022\"" if win else "" }}'
+  script: '${{ PYTHON }} -m pip install . -vv --no-build-isolation -Ccmake-args="-DBoost_INCLUDE_DIRS=$CONDA_PREFIX/Library/include" -Cmkl=${{ "yes" if blas == "mkl" else "no" }}'
 
 requirements:
   build:
@@ -37,7 +37,7 @@ requirements:
       then: make
   host:
     - dask
-    - libboost-devel >=1.79.0
+    - libboost-headers >= 1.90
     - if: blas == "mkl"
       then: mkl-devel
     - if: (blas == "openblas") and (win or linux)
