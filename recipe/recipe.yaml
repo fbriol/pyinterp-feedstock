@@ -37,7 +37,7 @@ requirements:
       then: make
   host:
     - dask
-    - libboost-headers >= 1.90
+    - libboost-headers >=1.90
     - if: blas == "mkl"
       then: mkl-devel
     - if: (blas == "openblas") and (win or linux)
