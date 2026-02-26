@@ -4,7 +4,7 @@ context:
   name: pyinterp
   version: 2026.2.0
   build_number: 0
-  sha256: b2277d7d8b45d9f074566abb84d1f3abb10f51a2ac4ec4f930e44ee5733099a8
+  sha256: 45bbf7c2593fe6ea5de851bd569e54d7fc8dbb67dbff8ba02d55284b16c8a5ea
 
 package:
   name: ${{ name|lower }}
