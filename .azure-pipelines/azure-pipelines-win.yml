@@ -8,12 +8,12 @@ jobs:
     vmImage: windows-2022
   strategy:
     matrix:
-      win_64_blasmklpython3.11.____cp311:
-        CONFIG: win_64_blasmklpython3.11.____cp311
+      win_64_blasmklpython3.11:
+        CONFIG: win_64_blasmklpython3.11
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasmklpython3.12.____cp312:
-        CONFIG: win_64_blasmklpython3.12.____cp312
+      win_64_blasmklpython3.12:
+        CONFIG: win_64_blasmklpython3.12
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
       win_64_blasmklpython3.13.____cp313:
@@ -24,12 +24,12 @@ jobs:
         CONFIG: win_64_blasmklpython3.14.____cp314
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.11.____cp311:
-        CONFIG: win_64_blasopenblaspython3.11.____cp311
+      win_64_blasopenblaspython3.11:
+        CONFIG: win_64_blasopenblaspython3.11
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.12.____cp312:
-        CONFIG: win_64_blasopenblaspython3.12.____cp312
+      win_64_blasopenblaspython3.12:
+        CONFIG: win_64_blasopenblaspython3.12
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
       win_64_blasopenblaspython3.13.____cp313:

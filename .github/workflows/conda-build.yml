@@ -22,13 +22,13 @@ jobs:
       max-parallel: 50
       matrix:
         include:
-          - CONFIG: linux_64_blasmklpython3.11.____cp311
+          - CONFIG: linux_64_blasmklpython3.11
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu
             runs_on: ['ubuntu-latest']
             DOCKER_IMAGE: quay.io/condaforge/linux-anvil-x86_64:alma9
-          - CONFIG: linux_64_blasmklpython3.12.____cp312
+          - CONFIG: linux_64_blasmklpython3.12
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu
@@ -46,13 +46,13 @@ jobs:
             os: ubuntu
             runs_on: ['ubuntu-latest']
             DOCKER_IMAGE: quay.io/condaforge/linux-anvil-x86_64:alma9
-          - CONFIG: linux_64_blasopenblaspython3.11.____cp311
+          - CONFIG: linux_64_blasopenblaspython3.11
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu
             runs_on: ['ubuntu-latest']
             DOCKER_IMAGE: quay.io/condaforge/linux-anvil-x86_64:alma9
-          - CONFIG: linux_64_blasopenblaspython3.12.____cp312
+          - CONFIG: linux_64_blasopenblaspython3.12
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu
@@ -70,13 +70,13 @@ jobs:
             os: ubuntu
             runs_on: ['ubuntu-latest']
             DOCKER_IMAGE: quay.io/condaforge/linux-anvil-x86_64:alma9
-          - CONFIG: linux_aarch64_blasopenblaspython3.11.____cp311
+          - CONFIG: linux_aarch64_blasopenblaspython3.11
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu
             runs_on: ['ubuntu-latest']
             DOCKER_IMAGE: quay.io/condaforge/linux-anvil-x86_64:alma9
-          - CONFIG: linux_aarch64_blasopenblaspython3.12.____cp312
+          - CONFIG: linux_aarch64_blasopenblaspython3.12
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu
@@ -94,13 +94,13 @@ jobs:
             os: ubuntu
             runs_on: ['ubuntu-latest']
             DOCKER_IMAGE: quay.io/condaforge/linux-anvil-x86_64:alma9
-          - CONFIG: linux_ppc64le_blasopenblaspython3.11.____cp311
+          - CONFIG: linux_ppc64le_blasopenblaspython3.11
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu
             runs_on: ['ubuntu-latest']
             DOCKER_IMAGE: quay.io/condaforge/linux-anvil-x86_64:alma9
-          - CONFIG: linux_ppc64le_blasopenblaspython3.12.____cp312
+          - CONFIG: linux_ppc64le_blasopenblaspython3.12
             STORE_BUILD_ARTIFACTS: False
             UPLOAD_PACKAGES: True
             os: ubuntu

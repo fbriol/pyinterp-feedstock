@@ -8,13 +8,13 @@ jobs:
     vmImage: $(VMIMAGE)
   strategy:
     matrix:
-      osx_64_python3.11.____cp311:
-        CONFIG: osx_64_python3.11.____cp311
+      osx_64_python3.11:
+        CONFIG: osx_64_python3.11
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         store_build_artifacts: false
-      osx_64_python3.12.____cp312:
-        CONFIG: osx_64_python3.12.____cp312
+      osx_64_python3.12:
+        CONFIG: osx_64_python3.12
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         store_build_artifacts: false
@@ -28,13 +28,13 @@ jobs:
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         store_build_artifacts: false
-      osx_arm64_python3.11.____cp311:
-        CONFIG: osx_arm64_python3.11.____cp311
+      osx_arm64_python3.11:
+        CONFIG: osx_arm64_python3.11
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         store_build_artifacts: false
-      osx_arm64_python3.12.____cp312:
-        CONFIG: osx_arm64_python3.12.____cp312
+      osx_arm64_python3.12:
+        CONFIG: osx_arm64_python3.12
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         store_build_artifacts: false
