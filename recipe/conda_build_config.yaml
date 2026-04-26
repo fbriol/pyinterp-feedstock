@@ -11,7 +11,7 @@ mkl:
 mkl_devel:
   - '2025'
 python:
-  - 3.11.* *_cpython
-  - 3.12.* *_cpython
-  - 3.13.* *_cpython
-  - 3.14.* *_cpython
+  - 3.11.* *_cp311
+  - 3.12.* *_cp312
+  - 3.13.* *_cp313
+  - 3.14.* *_cp314
