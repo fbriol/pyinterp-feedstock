@@ -8,36 +8,36 @@ jobs:
     vmImage: windows-2022
   strategy:
     matrix:
-      win_64_blasmklpython3.11.____cpython:
-        CONFIG: win_64_blasmklpython3.11.____cpython
+      win_64_blasmklpython3.11.____cp311:
+        CONFIG: win_64_blasmklpython3.11.____cp311
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasmklpython3.12.____cpython:
-        CONFIG: win_64_blasmklpython3.12.____cpython
+      win_64_blasmklpython3.12.____cp312:
+        CONFIG: win_64_blasmklpython3.12.____cp312
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasmklpython3.13.____cpython:
-        CONFIG: win_64_blasmklpython3.13.____cpython
+      win_64_blasmklpython3.13.____cp313:
+        CONFIG: win_64_blasmklpython3.13.____cp313
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasmklpython3.14.____cpython:
-        CONFIG: win_64_blasmklpython3.14.____cpython
+      win_64_blasmklpython3.14.____cp314:
+        CONFIG: win_64_blasmklpython3.14.____cp314
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.11.____cpython:
-        CONFIG: win_64_blasopenblaspython3.11.____cpython
+      win_64_blasopenblaspython3.11.____cp311:
+        CONFIG: win_64_blasopenblaspython3.11.____cp311
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.12.____cpython:
-        CONFIG: win_64_blasopenblaspython3.12.____cpython
+      win_64_blasopenblaspython3.12.____cp312:
+        CONFIG: win_64_blasopenblaspython3.12.____cp312
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.13.____cpython:
-        CONFIG: win_64_blasopenblaspython3.13.____cpython
+      win_64_blasopenblaspython3.13.____cp313:
+        CONFIG: win_64_blasopenblaspython3.13.____cp313
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.14.____cpython:
-        CONFIG: win_64_blasopenblaspython3.14.____cpython
+      win_64_blasopenblaspython3.14.____cp314:
+        CONFIG: win_64_blasopenblaspython3.14.____cp314
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
   timeoutInMinutes: 360

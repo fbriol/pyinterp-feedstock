@@ -36,227 +36,227 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_blasmklpython3.11.____cpython</td>
+              <td>linux_64_blasmklpython3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_blasmklpython3.12.____cpython</td>
+              <td>linux_64_blasmklpython3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_blasmklpython3.13.____cpython</td>
+              <td>linux_64_blasmklpython3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_blasmklpython3.14.____cpython</td>
+              <td>linux_64_blasmklpython3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasmklpython3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_blasopenblaspython3.11.____cpython</td>
+              <td>linux_64_blasopenblaspython3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_blasopenblaspython3.12.____cpython</td>
+              <td>linux_64_blasopenblaspython3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_blasopenblaspython3.13.____cpython</td>
+              <td>linux_64_blasopenblaspython3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_blasopenblaspython3.14.____cpython</td>
+              <td>linux_64_blasopenblaspython3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_blasopenblaspython3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_blasopenblaspython3.11.____cpython</td>
+              <td>linux_aarch64_blasopenblaspython3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_blasopenblaspython3.12.____cpython</td>
+              <td>linux_aarch64_blasopenblaspython3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_blasopenblaspython3.13.____cpython</td>
+              <td>linux_aarch64_blasopenblaspython3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_blasopenblaspython3.14.____cpython</td>
+              <td>linux_aarch64_blasopenblaspython3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_blasopenblaspython3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_blasopenblaspython3.11.____cpython</td>
+              <td>linux_ppc64le_blasopenblaspython3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_blasopenblaspython3.12.____cpython</td>
+              <td>linux_ppc64le_blasopenblaspython3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_blasopenblaspython3.13.____cpython</td>
+              <td>linux_ppc64le_blasopenblaspython3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_blasopenblaspython3.14.____cpython</td>
+              <td>linux_ppc64le_blasopenblaspython3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_blasopenblaspython3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.11.____cpython</td>
+              <td>osx_64_python3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.12.____cpython</td>
+              <td>osx_64_python3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.13.____cpython</td>
+              <td>osx_64_python3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.14.____cpython</td>
+              <td>osx_64_python3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.11.____cpython</td>
+              <td>osx_arm64_python3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.12.____cpython</td>
+              <td>osx_arm64_python3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.13.____cpython</td>
+              <td>osx_arm64_python3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_python3.14.____cpython</td>
+              <td>osx_arm64_python3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_python3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasmklpython3.11.____cpython</td>
+              <td>win_64_blasmklpython3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasmklpython3.12.____cpython</td>
+              <td>win_64_blasmklpython3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasmklpython3.13.____cpython</td>
+              <td>win_64_blasmklpython3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasmklpython3.14.____cpython</td>
+              <td>win_64_blasmklpython3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasmklpython3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasopenblaspython3.11.____cpython</td>
+              <td>win_64_blasopenblaspython3.11.____cp311</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.11.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.11.____cp311" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasopenblaspython3.12.____cpython</td>
+              <td>win_64_blasopenblaspython3.12.____cp312</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.12.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.12.____cp312" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasopenblaspython3.13.____cpython</td>
+              <td>win_64_blasopenblaspython3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.13.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_blasopenblaspython3.14.____cpython</td>
+              <td>win_64_blasopenblaspython3.14.____cp314</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7861&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.14.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyinterp-feedstock?branchName=main&jobName=win&configuration=win%20win_64_blasopenblaspython3.14.____cp314" alt="variant">
                 </a>
               </td>
             </tr>
