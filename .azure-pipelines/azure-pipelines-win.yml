@@ -8,36 +8,36 @@ jobs:
     vmImage: windows-2022
   strategy:
     matrix:
-      win_64_blasmklpython3.11:
-        CONFIG: win_64_blasmklpython3.11
+      win_64_blasmklpython3.11.____cpython:
+        CONFIG: win_64_blasmklpython3.11.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasmklpython3.12:
-        CONFIG: win_64_blasmklpython3.12
+      win_64_blasmklpython3.12.____cpython:
+        CONFIG: win_64_blasmklpython3.12.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasmklpython3.13:
-        CONFIG: win_64_blasmklpython3.13
+      win_64_blasmklpython3.13.____cpython:
+        CONFIG: win_64_blasmklpython3.13.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasmklpython3.14:
-        CONFIG: win_64_blasmklpython3.14
+      win_64_blasmklpython3.14.____cpython:
+        CONFIG: win_64_blasmklpython3.14.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.11:
-        CONFIG: win_64_blasopenblaspython3.11
+      win_64_blasopenblaspython3.11.____cpython:
+        CONFIG: win_64_blasopenblaspython3.11.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.12:
-        CONFIG: win_64_blasopenblaspython3.12
+      win_64_blasopenblaspython3.12.____cpython:
+        CONFIG: win_64_blasopenblaspython3.12.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.13:
-        CONFIG: win_64_blasopenblaspython3.13
+      win_64_blasopenblaspython3.13.____cpython:
+        CONFIG: win_64_blasopenblaspython3.13.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
-      win_64_blasopenblaspython3.14:
-        CONFIG: win_64_blasopenblaspython3.14
+      win_64_blasopenblaspython3.14.____cpython:
+        CONFIG: win_64_blasopenblaspython3.14.____cpython
         UPLOAD_PACKAGES: 'True'
         store_build_artifacts: false
   timeoutInMinutes: 360
